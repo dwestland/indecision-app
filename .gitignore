@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directories
+node_modules
+angular-src/node_modules
+dist
+bower_components
